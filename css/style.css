@@ -23,8 +23,8 @@ html {
     margin: 100px auto;
     padding: 20px 20px 9PX;
 
-    background: #9dd2ea;
-    background: linear-gradient(#9dd2ea, #8bceec);
+    background: #0b8fcc;
+    background: linear-gradient(#0757ce, #8bceec);
     border-radius: 3px;
     /* Using box shadows to create 3D effects */
     box-shadow: 0px 4px #009de4, 0px 10px 15px rgba(0,0,0,0.2);
